@@ -1,4 +1,7 @@
-i have to study 
+i have to study for the exam
 java
 c++
 html
+java scricpt
+operating system
+python
