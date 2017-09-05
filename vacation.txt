@@ -4,3 +4,5 @@ camera
 ipod
 laptop
 jacket
+sport shoes
+laptop bag
