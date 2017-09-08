@@ -1,0 +1,2 @@
+i need to check how to work in file if we need transfer
+something in my git project.
